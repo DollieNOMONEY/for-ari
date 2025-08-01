@@ -127,7 +127,7 @@ export default function Home() {
 
               <Image width={250} height={150} src="/images/girlfriend.jpg" alt="Cute Girlfriend" className="mx-auto mb-5 rounded-xl print:hidden" />
               
-              <div className="z-10 font-caveat text-left mb-6 p-4 rounded-3xl border-5 border-pink-400 outline-black outline-2 outline-dashed print:border-none print:outline-none print:p-0 bg-[#f6e4ff] relative">
+              <div className="z-10 font-caveat text-left mb-6 p-4 rounded-3xl border-5 border-pink-400 outline-black outline-0 outline-dashed print:border-none print:outline-none print:p-0 bg-[#f6e4ff] relative">
                 <p className="text-[#ff3aa6] font-bold text-4xl mb-4">Dear Mi Amor,</p>
                 <p className="text-lg print:text-sm leading-relaxed mb-4">You are the best person I have ever met. You have brought so much joy into my life, and nothing can replace you in my heart. You are someone who I can talk to all the time and cherish every moment with. Life would have been so boring and lonely without you.</p>
                 <p className="text-lg print:text-sm leading-relaxed mb-4">My favorite thing is our own playful teasing and our love battles. Remember when you used to tell me your voice sounded weird? I am in LOVE with your voice, and I do not care how anybody thinks about you but it is so attractive as the sounds of the piano keys. </p>
