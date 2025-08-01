@@ -62,7 +62,7 @@ const NuhUhPopup = ({ onClose }) => (
 
       {/* The original centered content card */}
       <div className="bg-[#f6e4ff] rounded-3xl p-6 sm:p-8 text-center border-5 border-pink-400 outline-black outline-2 outline-dashed">
-        <p className="font-caveat text-4xl text-zinc-800 mb-6">Aw... Please try again...</p>
+        <p className="font-caveat text-4xl text-zinc-800 mb-6">Hey! Try again...🤬😔</p>
         <button 
           onClick={onClose}
           className="rounded-full px-8 py-2 bg-[#ff3aa6] text-white font-bold transition-transform hover:scale-105"
